@@ -140,7 +140,7 @@ function App() {
                 </ul>
                 <p className="card-text my-4">{item.summary}</p>
                 <a href={item.url} target="_blank" className="btn btn-primary">
-                  Read More <img src="images/arrow-right.png" alt />
+                  Read More <img src="images/arrow-right.png" />
                 </a>
               </div>
             </div>
